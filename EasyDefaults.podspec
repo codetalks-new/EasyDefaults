@@ -23,19 +23,19 @@ Based on Swift 3, delerative style.
 
 DESC
 
-s.homepage         = 'https://github.com/banxi1988/Defaults'
+s.homepage         = 'https://github.com/banxi1988/EasyDefaults'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'banxi1988' => 'banxi1988@gmail.com' }
-s.source           = { :git => 'https://github.com/banxi1988/Defaults.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/banxi1988/EasyDefaults.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'Defaults/Classes/**/*'
+s.source_files = 'EasyDefaults/Classes/**/*'
 
 # s.resource_bundles = {
-#   'Defaults' => ['Defaults/Assets/*.png']
+#   'Defaults' => ['EasyDefaults/Assets/*.png']
 # }
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
